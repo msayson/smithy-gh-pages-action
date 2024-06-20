@@ -1,4 +1,6 @@
 # smithy-gh-pages-action
+**_NOTE: This package is deprecated in favour of [msayson/openapi-github-pages-action](https://github.com/msayson/openapi-github-pages-action), which provides more generalizable functionality specific to generating API docs from OpenAPI specs._**
+
 GitHub Action to generate and deploy API documentation to GitHub Pages, using Smithy models or OpenAPI specification files as input.
 
 By default, API docs are generated at *username*.github.io/*repository-name*/*provided-api-doc-filepath*.
